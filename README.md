@@ -9,6 +9,10 @@
 下载release里的zip文件，解压到自己hexo目录里的themes文件下。
 
 ## 使用事项:
+### 安装hexo-generator-search
+```bash
+yarn add hexo-generator-search
+```
 ### 全局_config.yml:
 使用该主题
 ```yml
