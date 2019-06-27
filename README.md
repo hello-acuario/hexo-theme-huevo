@@ -15,20 +15,20 @@ highlight:
 ```
 
 使用搜索功能
-···yml
+```yml
 search:
   path: search.json
   field: post
   content: true
-···
+```
 
 使用rss
-···yml
+```yml
 feed:
     type: atom
     path: rss.xml
     limit: 20
-···
+```
 
 ### 主题下目录surce/js/comment.js
 修改gitalk配置信息
