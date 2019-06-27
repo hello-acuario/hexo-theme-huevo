@@ -1,10 +1,21 @@
 # hexo-theme-huevo
-这是一个自用 hexo 主题，这里有我的博客的链接，还有截图。
+* 这是一个自用hexo主题，所以没有为开源多考虑，因此配置项有点少，不过我将来会加上
+
+这是一个 [hexo](https://hexo.io) 主题，这里有我的博客的链接，还有截图。
 
 [Junso's Huevo](http://www.baidu.com)
 
+## 使用
+下载release里的zip文件，解压到自己hexo目录里的theme文件下。
+
 ## 使用事项:
-### 全局_config.yml：
+### 全局_config.yml:
+使用该主题
+```yml
+theme: huevo
+```
+
+
 关闭默认代码高亮功能以使用hight.js
 ```yml
 highlight:
