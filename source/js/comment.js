@@ -8,7 +8,7 @@ var gitalk = new Gitalk({
   clientSecret: 'ea903c58d334b1bcd0adcf07381de7920d418873',
   repo: 'huevo',
   owner: 'hello-acuario',
-  admin: ['ea903c58d334b1bcd0adcf07381de7920d418873'],
+  admin: ['hello-acuario'],
   id: location.pathname,      // Ensure uniqueness and length less than 50
   distractionFreeMode: false  // Facebook-like distraction free mode
 });
