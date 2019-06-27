@@ -6,7 +6,7 @@
 [Junso's Huevo](http://www.baidu.com)
 
 ## 使用
-下载release里的zip文件，解压到自己hexo目录里的theme文件下。
+下载release里的zip文件，解压到自己hexo目录里的themes文件下。
 
 ## 使用事项:
 ### 全局_config.yml:
